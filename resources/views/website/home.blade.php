@@ -37,7 +37,7 @@
                                             data-splitin="none" 
                                             data-splitout="none" 
                                             data-responsive_offset="on">
-                                            30 YEARS PROVIDING<br>FINANCIAL SERVICES
+                                            Masa Depan Gemilang <br> di Sini!
                                         </div>
 
                                         <div class="tp-caption sub-title text-white"
@@ -57,7 +57,7 @@
                                             data-splitin="none" 
                                             data-splitout="none" 
                                             data-responsive_offset="on">
-                                            Appropriate and sufficient financing for<br>a company is crucially important for its long-term success.
+                                            Mendidik generasi muda dengan integritas, ilmu, dan iman.
                                         </div>
 
                                         <div class="tp-caption"
@@ -75,7 +75,7 @@
                                             data-splitin="none" 
                                             data-splitout="none" 
                                             data-responsive_offset="on">
-                                            <a href="page-contact.html" class="themesflat-button accent big video"><img src="assets/img/watch-video.png" alt="Image">WATCH VIDEO</a>
+                                            <a href="page-contact.html" class="themesflat-button accent big video"><img src="templates/ficonsu/assets/img/watch-video.png" alt="Image">WATCH VIDEO</a>
                                         </div>
 
                                         <div class="tp-caption"
@@ -121,7 +121,7 @@
                                             data-splitin="none" 
                                             data-splitout="none" 
                                             data-responsive_offset="on">
-                                            FULLY INDEPENDENT
+                                            Tempat Terbaik untuk Menemukan Potensimu!
                                         </div>
 
                                         <div class="tp-caption tp-resizeme text-white text-center"
@@ -141,7 +141,7 @@
                                             data-splitin="none" 
                                             data-splitout="none" 
                                             data-responsive_offset="on">
-                                             We're not beholden to any corporate agenda—our focus is your success<br>and clients enjoy direct access to the firm's owners.
+                                            Kombinasi pendidikan karakter dan akademik yang unggul.
                                         </div>
 
                                         <div class="tp-caption text-center"
@@ -159,7 +159,7 @@
                                             data-splitin="none" 
                                             data-splitout="none" 
                                             data-responsive_offset="on">
-                                            <a href="page-contact.html" class="themesflat-button accent big video"><img src="assets/img/watch-video.png" alt="Image">WATCH VIDEO</a>
+                                            <a href="page-contact.html" class="themesflat-button accent big video"><img src="templates/ficonsu/assets/img/watch-video.png" alt="Image">WATCH VIDEO</a>
                                         </div>
 
                                         <div class="tp-caption text-center"
@@ -205,7 +205,7 @@
                                             data-splitin="none" 
                                             data-splitout="none" 
                                             data-responsive_offset="on">
-                                            30 YEARS PROVIDING<br>FINANCIAL SERVICES
+                                            Bersama Kami, <br>Langkah Anda Menuju Kejayaan!
                                         </div>
 
                                         <div class="tp-caption sub-title text-white text-right"
@@ -225,7 +225,7 @@
                                             data-splitin="none" 
                                             data-splitout="none" 
                                             data-responsive_offset="on">
-                                            Appropriate and sufficient financing for<br>a company is crucially important for its long-term success.
+                                            Pendidikan holistik yang mempersiapkan siswa untuk dunia yang terus berubah.
                                         </div>
 
                                         <div class="tp-caption text-right"
@@ -261,12 +261,12 @@
                                             data-splitin="none" 
                                             data-splitout="none" 
                                             data-responsive_offset="on">
-                                            <a href="page-contact.html" class="themesflat-button accent big video"><img src="assets/img/watch-video.png" alt="Image">WATCH VIDEO</a>                                            
+                                            <a href="page-contact.html" class="themesflat-button accent big video"><img src="templates/ficonsu/assets/img/watch-video.png" alt="Image">WATCH VIDEO</a>                                            
                                         </div>
                                     </li>
                                     <!-- /End Slide 3 -->
 
-                                     <!-- Slide 4 -->
+                                    <!-- Slide 4 -->
                                      <li data-transition="random">
                                         <!-- Main Image -->
                                         <img src="{{ asset('templates/ficonsu/assets/img/slider/slider-bg-4.jpg') }}" alt="" data-bgposition="center center" data-no-retina>
@@ -289,7 +289,7 @@
                                             data-splitin="none" 
                                             data-splitout="none" 
                                             data-responsive_offset="on">
-                                            30 YEARS PROVIDING<br>FINANCIAL SERVICES
+                                            Menggali Keunggulan, Membangun Karakter!
                                         </div>
 
                                         <div class="tp-caption sub-title text-white text-right"
@@ -309,7 +309,7 @@
                                             data-splitin="none" 
                                             data-splitout="none" 
                                             data-responsive_offset="on">
-                                            Appropriate and sufficient financing for<br>a company is crucially important for its long-term success.
+                                            Komitmen kami dalam membentuk pribadi yang berkualitas dan berakhlak mulia.
                                         </div>
 
                                         <div class="tp-caption text-right"
@@ -345,7 +345,7 @@
                                             data-splitin="none" 
                                             data-splitout="none" 
                                             data-responsive_offset="on">
-                                            <a href="page-contact.html" class="themesflat-button accent big video"><img src="assets/img/watch-video.png" alt="Image">WATCH VIDEO</a>                                            
+                                            <a href="page-contact.html" class="themesflat-button accent big video"><img src="templates/ficonsu/assets/img/watch-video.png" alt="Image">WATCH VIDEO</a>                                            
                                         </div>
                                     </li>
                                     <!-- /End Slide 4 -->
@@ -373,7 +373,7 @@
                                             data-splitin="none" 
                                             data-splitout="none" 
                                             data-responsive_offset="on">
-                                            30 YEARS PROVIDING<br>FINANCIAL SERVICES
+                                            SMP Darunnajah - Pilihan Tepat untuk Masa Depan Cemerlang!
                                         </div>
 
                                         <div class="tp-caption sub-title text-white text-right"
@@ -393,7 +393,7 @@
                                             data-splitin="none" 
                                             data-splitout="none" 
                                             data-responsive_offset="on">
-                                            Appropriate and sufficient financing for<br>a company is crucially important for its long-term success.
+                                            Memadukan tradisi dan inovasi dalam pendidikan untuk generasi penerus bangsa
                                         </div>
 
                                         <div class="tp-caption text-right"
@@ -429,7 +429,7 @@
                                             data-splitin="none" 
                                             data-splitout="none" 
                                             data-responsive_offset="on">
-                                            <a href="page-contact.html" class="themesflat-button accent big video"><img src="assets/img/watch-video.png" alt="Image">WATCH VIDEO</a>                                            
+                                            <a href="page-contact.html" class="themesflat-button accent big video"><img src="templates/ficonsu/assets/img/watch-video.png" alt="Image">WATCH VIDEO</a>                                            
                                         </div>
                                     </li>
                                     <!-- /End Slide 5 -->
@@ -438,7 +438,7 @@
                         </div>
                         <!-- END SLIDER -->
 
-                        <!-- SERVICES IMAGEBOXS -->
+                        <!-- LAYANAN DAN INFRASTRUKTUR -->
                         <div class="row-services">
                             <div class="container">
                                 <div class="row">
@@ -446,9 +446,9 @@
                                         <div class="themesflat-spacer clearfix" data-desktop="92" data-mobi="60" data-smobi="60"></div>
 
                                         <div class="themesflat-headings style-1 clearfix text-center padding-left-32">
-                                        	<h2 class="heading clearfix">BEST SERVICES OFFER</h2>
+                                        	<h2 class="heading clearfix">LAYANAN TERBAIK YANG DIBERIKAN</h2>
                                         	<div class="sep clearfix"></div>
-                                        	<p class="sub-heading clearfix">Appropriate and sufficient financing for a company is crucially important for its long-term success. We advise you in choosing the appropriate type of financing</p>
+                                        	<p class="sub-heading clearfix">Layanan serta Infrastruktur Unggulan untuk Pengalaman Belajar Terbaik</p>
                                         </div><!-- /.themesflat-headings -->
 
 										<div class="themesflat-spacer clearfix" data-desktop="50" data-mobi="40" data-smobi="40"></div>
@@ -458,12 +458,12 @@
                                         <div class="themesflat-image-box style-1 clearfix">
                                             <div class="item">
                                                 <div class="inner">
-                                                    <div class="thumb"><img src="assets/img/imagebox/imagebox1.jpg" alt="Image"></div>
+                                                    <div class="thumb"><img src="templates/ficonsu/assets/img/imagebox/imagebox1.jpg" alt="Image"></div>
 
                                                     <div class="text-wrap">
-                                                        <h3 class="title"><a target="_blank" href="">INVESTMENT LOAN</a></h3>
+                                                        <h3 class="title"><a target="_blank" href="">LABORATORIUM SAINS MODERN</a></h3>
 
-                                                        <div class="desc">Secure the long-term growth of your company</div>
+                                                        <div class="desc">Perlengkapan terkini mendukung eksplorasi ilmu pengetahuan dan inovasi.</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -476,12 +476,12 @@
                                         <div class="themesflat-image-box style-1 clearfix">
                                             <div class="item">
                                                 <div class="inner">
-                                                    <div class="thumb"><img src="assets/img/imagebox/imagebox2.jpg" alt="Image"></div>
+                                                    <div class="thumb"><img src="templates/ficonsu/assets/img/imagebox/imagebox2.jpg" alt="Image"></div>
 
                                                     <div class="text-wrap">
-                                                        <h3 class="title"><a target="_blank" href="">PROJECT FINANCE</a></h3>
+                                                        <h3 class="title"><a target="_blank" href="">PERPUSTAKAAN DIGITAL INTERAKTIF</a></h3>
 
-                                                        <div class="desc">Create a sustainable financing structure</div>
+                                                        <div class="desc">Koleksi buku dan sumber digital yang luas untuk memperkaya wawasan siswa.</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -494,12 +494,12 @@
                                         <div class="themesflat-image-box style-1 clearfix">
                                             <div class="item">
                                                 <div class="inner">
-                                                    <div class="thumb"><img src="assets/img/imagebox/imagebox3.jpg" alt="Image"></div>
+                                                    <div class="thumb"><img src="templates/ficonsu/assets/img/imagebox/imagebox3.jpg" alt="Image"></div>
 
                                                     <div class="text-wrap">
-                                                        <h3 class="title"><a target="_blank" href="">REAL ESTATE PLANNING</a></h3>
+                                                        <h3 class="title"><a target="_blank" href="">lAPANGAN OLAHRAGA TERBAIK DAN LENGKAP</a></h3>
 
-                                                        <div class="desc">How to finance your real estate investment</div>
+                                                        <div class="desc">Mendorong keseimbangan antara kegiatan akademik dan ekstrakurikuler, memastikan kesejahteraan fisik siswa.</div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -512,9 +512,9 @@
                                 </div><!-- /.row -->
                             </div><!-- /.container -->
                         </div>
-                        <!-- END SERVICES IMAGEBOXS -->
+                        <!-- END LAYANAN DAN INFRASTRUKTUR -->
 
-                        <!-- FACTS -->
+                        <!-- JUMLAH SDM -->
                         <div class="row-facts-1 parallax parallax-overlay">
                             <div class="bg-parallax-overlay overlay-black"></div>
                             <div class="container">
@@ -529,11 +529,11 @@
                                                 <div class="inner">
                                                     <div class="text-wrap">
                                                         <div class="number-wrap font-heading">
-                                                            <span class="prefix">FOUNDED<br>IN </span><span class="number accent" data-speed="3000" data-to="1988" data-inviewport="yes">1988</span><span class="suffix">.</span>
+                                                            <span class="prefix">DIDIRIKAN<br>TAHUN </span><span class="number accent" data-speed="6000" data-to="2008" data-inviewport="yes">2008</span><span class="suffix">.</span>
                                                         </div>
 
                                                         <div class="sep"></div>
-                                                        <h3 class="heading">We become one of the largest financial services providers</h3>
+                                                        <h3 class="heading">KITA TELAH MENJADI SALAH SATU SMP UNGGULAN DI KRAGAN</h3>
                                                     </div>
                                                 </div>
                                             </div><!-- /.themesflat-counter -->
@@ -548,11 +548,11 @@
                                             <div class="inner">
                                                 <div class="text-wrap">
                                                     <div class="number-wrap font-heading">
-                                                        <span class="prefix"></span><span class="number accent" data-speed="3000" data-to="7513" data-inviewport="yes">7513</span><span class="suffix">+</span>
+                                                        <span class="prefix"></span><span class="number accent" data-speed="6000" data-to="7513" data-inviewport="yes">7513</span><span class="suffix">+</span>
                                                     </div>
 
                                                     <div class="sep"></div>
-                                                    <h3 class="heading">HAPPY CUSTOMERS</h3>
+                                                    <h3 class="heading">JUMLAH ALUMNI</h3>
                                                 </div>
 
                                                 <div class="border-right-2"></div>
@@ -569,11 +569,11 @@
                                             <div class="inner">
                                                 <div class="text-wrap">
                                                     <div class="number-wrap font-heading">
-                                                        <span class="prefix"></span><span class="number accent" data-speed="3000" data-to="1290" data-inviewport="yes">1290</span><span class="suffix">+</span>
+                                                        <span class="prefix"></span><span class="number accent" data-speed="6000" data-to="1290" data-inviewport="yes">1290</span><span class="suffix">+</span>
                                                     </div>
 
                                                     <div class="sep"></div>
-                                                    <h3 class="heading">EXPERT ADVISORS</h3>
+                                                    <h3 class="heading">JUMLAH SISWA SAAT INI</h3>
 
                                                     <div class="border-right-2"></div>
                                                 </div>
@@ -590,11 +590,11 @@
                                             <div class="inner">
                                                 <div class="text-wrap">
                                                     <div class="number-wrap font-heading">
-                                                        <span class="prefix"></span><span class="number accent" data-speed="3000" data-to="2684" data-inviewport="yes">2684</span><span class="suffix">+</span>
+                                                        <span class="prefix"></span><span class="number accent" data-speed="6000" data-to="50" data-inviewport="yes">50</span><span class="suffix">+</span>
                                                     </div>
 
                                                     <div class="sep"></div>
-                                                    <h3 class="heading">PROJECT SUCCESS</h3>
+                                                    <h3 class="heading">JUMLAH STAF DAN GURU</h3>
                                                 </div>
                                             </div>
                                         </div><!-- /.themesflat-counter -->
@@ -607,7 +607,7 @@
                                 </div><!-- /.row -->
                             </div><!-- /.container -->
                         </div>
-                        <!-- END FACTS 1 -->
+                        <!-- END JUMLAH SDM 1 -->
 
                         <!-- VIDEO -->
                         <div class="row-video">
@@ -841,7 +841,7 @@
                                         <div class="themesflat-spacer clearfix" data-desktop="93" data-mobi="40" data-smobi="40"></div>
 
                                         <div class="themesflat-headings style-1 clearfix text-center">
-                                            <h2 class="heading clearfix">CLIENT TESTIMONIALS</h2>
+                                            <h2 class="heading clearfix">TESTIMONIAL ALUMNI</h2>
                                             <div class="sep clearfix"></div>
                                             <p class="sub-heading clearfix">Appropriate and sufficient financing for a company is crucially important for its long-term success. We advise you in choosing the appropriate type of financing</p>
                                         </div><!-- /.themesflat-headings -->
@@ -927,7 +927,7 @@
                                                 <div class="item">
                                                     <div class="inner">
                                                         <div class="thumb">
-                                                            <img src="assets/img/testimonials/customer-2.png" alt="Image">
+                                                            <img src="templates/ficonsu/assets/img/testimonials/customer-2.png" alt="Image">
                                                         </div>
 
                                                         <blockquote class="text">
@@ -977,7 +977,7 @@
                                                 <div class="item">
                                                     <div class="inner">
                                                         <div class="thumb">
-                                                            <img src="assets/img/testimonials/customer-2.png" alt="Image">
+                                                            <img src="templates/ficonsu/assets/img/testimonials/customer-2.png" alt="Image">
                                                         </div>
 
                                                         <blockquote class="text">
@@ -1002,7 +1002,7 @@
                                                 <div class="item">
                                                     <div class="inner">
                                                         <div class="thumb">
-                                                            <img src="assets/img/testimonials/customer-3.png" alt="Image">
+                                                            <img src="templates/ficonsu/assets/img/testimonials/customer-3.png" alt="Image">
                                                         </div>
 
                                                         <blockquote class="text">
@@ -1036,6 +1036,11 @@
                             <div class="container">
                                 <div class="row">
                                     <div class="col-md-12">
+                                        <div class="themesflat-headings style-1 clearfix text-center">
+                                            <h2 class="heading clearfix">SEKOLAH-SEKOLAH RUJUKAN ALUMNI</h2>
+                                            <div class="sep clearfix"></div>
+                                            
+                                        </div><!-- /.themesflat-headings -->
                                         <div class="themesflat-spacer clearfix" data-desktop="60" data-mobi="40" data-smobi="40"></div>
 
                                         <div class="themesflat-partner style-1 arrow-center offset30 offset-v0 has-arrows arrows-circle w32" data-auto="false" data-loop="false" data-column="5" data-column2="3" data-column3="2" data-gap="60"><div class="owl-carousel owl-theme">
@@ -1043,7 +1048,7 @@
                                                 <div class="inner">
                                                 	<a target="_blank" href="#">
                                                 		<div class="thumb">
-                                                            <img src="assets/img/partners/logo-1.png" alt="Image">
+                                                            <img src="templates/ficonsu/assets/img/partners/logo_sma1rembang.jpeg" alt="Image">
                                                 		</div>
                                                 	</a>
                                                 </div>
@@ -1053,7 +1058,7 @@
                                                 <div class="inner">
                                                     <a target="_blank" href="#">
                                                         <div class="thumb">
-                                                            <img src="assets/img/partners/logo-2.png" alt="Image">
+                                                            <img src="templates/ficonsu/assets/img/partners/logo_sma2rembang.png" alt="Image">
                                                         </div>
                                                     </a>
                                                 </div>
@@ -1063,7 +1068,7 @@
                                                 <div class="inner">
                                                     <a target="_blank" href="#">
                                                         <div class="thumb">
-                                                            <img src="assets/img/partners/logo-3.png" alt="Image">
+                                                            <img src="templates/ficonsu/assets/img/partners/logo_smarusd.png" alt="Image">
                                                         </div>
                                                     </a>
                                                 </div>
@@ -1073,7 +1078,7 @@
                                                 <div class="inner">
                                                     <a target="_blank" href="#">
                                                         <div class="thumb">
-                                                            <img src="assets/img/partners/logo-4.png" alt="Image">
+                                                            <img src="templates/ficonsu/assets/img/partners/logo_sma1lasem.png" alt="Image">
                                                         </div>
                                                     </a>
                                                 </div>
@@ -1083,7 +1088,7 @@
                                                 <div class="inner">
                                                     <a target="_blank" href="#">
                                                         <div class="thumb">
-                                                            <img src="assets/img/partners/logo-5.png" alt="Image">
+                                                            <img src="templates/ficonsu/assets/img/partners/logo_man2rembang.png" alt="Image">
                                                         </div>
                                                     </a>
                                                 </div>
@@ -1093,7 +1098,7 @@
                                                 <div class="inner">
                                                     <a target="_blank" href="#">
                                                         <div class="thumb">
-                                                            <img src="assets/img/partners/logo-6.png" alt="Image">
+                                                            <img src="templates/ficonsu/assets/img/partners/logo_smkmuhammadiyah.png" alt="Image">
                                                         </div>
                                                     </a>
                                                 </div>
@@ -1103,7 +1108,7 @@
                                                 <div class="inner">
                                                     <a target="_blank" href="#">
                                                         <div class="thumb">
-                                                            <img src="assets/img/partners/logo-7.png" alt="Image">
+                                                            <img src="templates/ficonsu/assets/img/partners/logo_smkdarunnajah.jpeg" alt="Image">
                                                         </div>
                                                     </a>
                                                 </div>
@@ -1113,7 +1118,7 @@
                                                 <div class="inner">
                                                     <a target="_blank" href="#">
                                                         <div class="thumb">
-                                                            <img src="assets/img/partners/logo-8.png" alt="Image">
+                                                            <img src="templates/ficonsu/assets/img/partners/logo_sma3rembang.png" alt="Image">
                                                         </div>
                                                     </a>
                                                 </div>

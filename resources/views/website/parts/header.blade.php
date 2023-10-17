@@ -5,7 +5,7 @@
             <div class="wrap-inner">
                 <div id="site-logo" class="clearfix">
                     <div id="site-logo-inner">
-<a href="home.html" title="Finance" rel="home" class="main-logo"><img src="templates/ficonsu/assets/img/logo.png" width="184" height="40" alt="Finance" data-retina="templates/ficonsu/assets/img/logo@2x.png" data-width="184" data-height="40"></a>
+<a href="home.html" title="Finance" rel="home" class="main-logo"><img src="templates/ficonsu/assets/img/logo_darunnajah.png" width="184" height="40" alt="Finance" data-retina="templates/ficonsu/assets/img/logo_darunnajah.png" data-width="184" data-height="40"></a>
                     </div>
                 </div><!-- /#site-logo -->
 
