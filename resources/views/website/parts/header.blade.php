@@ -13,7 +13,7 @@
 
                 <nav id="main-nav" class="main-nav">
                     <ul id="menu-primary-menu" class="menu">
-                        <li class="menu-item current-menu-item menu-item-has-children"><a href="home.html">HOME</a>
+                        <li class="menu-item current-menu-item menu-item-has-children"><a href="home.html">BERANDA</a>
                             <ul class="sub-menu">
                                 <li class="menu-item current-item"><a href="home.html">Home 1</a></li>
                                 <li class="menu-item"><a href="home-2.html">Home 2</a></li>
@@ -22,7 +22,7 @@
                             </ul>
                         </li>
 
-                        <li class="menu-item menu-item-has-children"><a href="#">ABOUT</a>
+                        <li class="menu-item menu-item-has-children"><a href="#">PROFIL</a>
                             {{-- <ul class="sub-menu">
                                 <li class="menu-item menu-item-has-children"><a href="home.html">Headers</a>
                                     <ul class="sub-menu">
@@ -53,70 +53,40 @@
                             </ul> --}}
                         </li>
 
+                        <li class="menu-item menu-item-has-children"><a href="page-blog.html">BERITA</a>
+                            <ul class="sub-menu">
+                                <li class="menu-item"><a href="page-blog.html">Pengumuman</a></li>
+                                <li class="menu-item"><a href="page-blog-single.html">Prestasi</a></li>
+                                <li class="menu-item"><a href="page-blog-single.html">DSA</a></li>
+                            </ul>
+                        </li>
+
                         <li class="menu-item menu-item-has-children"><a href="#">PROGRAM</a>
                             <ul class="sub-menu">
-                                <li class="menu-item"><a href="page-about.html">About Us</a></li>
-                                <li class="menu-item"><a href="page-services.html">Our Services</a></li>
-                                <li class="menu-item"><a href="page-contact.html">Contact Us</a></li>
+                                <li class="menu-item"><a href="page-about.html">Tahfidz Al-Qur’an</a></li>
+                                <li class="menu-item"><a href="page-services.html">Mentoring Keislaman/Bina Pribadi Islam (BPI)</a></li>
                             </ul>
                         </li>
 
-                        <li class="menu-item menu-item-has-children"><a href="page-blog.html">BLOG</a>
+
+                        <li class="menu-item menu-item-has-children"><a href="element-project-post.html">GALERI</a>
                             <ul class="sub-menu">
-                                <li class="menu-item"><a href="page-blog.html">blog</a></li>
-                                <li class="menu-item"><a href="page-blog-single.html">blog Single</a></li>
+                                <li class="menu-item"><a href="element-project-post.html">FOTO</a></li>
+                                <li class="menu-item"><a href="page-project-single-1.html">VIDEO</a></li>
+                               
                             </ul>
                         </li>
-
-                        <li class="menu-item menu-item-has-children"><a href="element-project-post.html">PORTFOLIO</a>
+                        
+                        <li class="menu-item menu-item-has-children"><a href="element-project-post.html">PMB 2024/2025</a>
+                        </li>
+                        
+                        <li class="menu-item menu-item-has-children"><a href="element-project-post.html">Layanan</a>
                             <ul class="sub-menu">
-                                <li class="menu-item"><a href="element-project-post.html">Unlimited Portfolio</a></li>
-                                <li class="menu-item"><a href="page-project-single-1.html">Project Single 1</a></li>
-                                <li class="menu-item"><a href="page-project-single-2.html">Project Single 2</a></li>
+                                <li class="menu-item"><a href="element-project-post.html">Alumni</a></li>
+                                <li class="menu-item"><a href="page-project-single-1.html">E-Raport</a></li>
+                               
                             </ul>
                         </li>
-                        {{-- <li class="megamenu col-4 menu-item menu-item-has-children"><a href="#">ELEMENTS</a>
-                            <ul class="sub-menu">
-                                <li class="menu-item menu-item-has-children"><a># 01</a>
-                                    <ul class="sub-menu">
-                                        <li class="menu-item"><a href="element-buttons.html">Buttons</a></li>
-                                        <li class="menu-item"><a href="element-counter.html">Counter</a></li>
-                                        <li class="menu-item"><a href="element-list.html">Lists</a></li>
-                                        <li class="menu-item"><a href="element-line-divider.html">Line and Divider</a></li>
-                                        <li class="menu-item"><a href="element-icons.html">Icons</a></li>
-                                    </ul>
-                                </li>
-                                <li class="menu-item menu-item-has-children"><a># 02</a>
-                                    <ul class="sub-menu">
-                                        <li class="menu-item"><a href="element-icon-box.html">Icon Box</a></li>
-                                        <li class="menu-item"><a href="element-accordion.html">Accordions</a></li>
-                                        <li class="menu-item"><a href="element-progress-bar.html">Progress Bar</a></li>
-                                        <li class="menu-item"><a href="element-testimonials.html">Testimonials</a></li>
-                                        <li class="menu-item"><a href="element-tabs.html">Tabs</a></li>
-                                    </ul>
-                                </li>
-
-                                <li class="menu-item menu-item-has-children"><a># 03</a>
-                                    <ul class="sub-menu">
-                                        <li class="menu-item"><a href="element-image-box.html">Image Box</a></li>
-                                        <li class="menu-item"><a href="element-blog-post.html">Blog Posts</a></li>
-                                        <li class="menu-item"><a href="element-partner-post.html">Partner Posts</a></li>
-                                        <li class="menu-item"><a href="element-member-post.html">Member Posts</a></li>
-                                        <li class="menu-item"><a href="element-gallery-post.html">Gallery Posts</a></li>
-                                    </ul>
-                                </li>
-
-                                <li class="menu-item menu-item-has-children"><a># 04</a>
-                                    <ul class="sub-menu">
-                                        <li class="menu-item"><a href="element-pricing-table.html">Pricing Table</a></li>
-                                        <li class="menu-item"><a href="element-action-box.html">Action Box</a></li>
-                                        <li class="menu-item"><a href="element-google-map.html">Google Map</a></li>
-                                        <li class="menu-item"><a href="element-contact-form.html">Contact Form</a></li>
-                                        <li class="menu-item"><a href="element-carousel-box.html">Carousel Box</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </li> --}}
                     </ul>
                 </nav><!-- /#main-nav -->
 

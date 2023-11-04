@@ -6,9 +6,9 @@
                 <div class="widget widget_text padding-left-7">
                     <div class="textwidget">
                         <p class="margin-bottom-22">
-                            <img src="assets/img/logo-footer.png" width="226" height="50" alt="Finance" data-retina="assets/img/logo-footer@2x.png" data-width="226" data-height="50">
+                            <img src="templates/ficonsu/assets/img/logo_darunnajah.png" width="226" height="50" alt="Finance" data-retina="templates/ficonsu/assets/img/logo_darunnajah.png" data-width="226" data-height="50">
                         </p>
-                        <p>We have a wide breadth of experience over 30 years providing financial services.</p>
+                        <p>Kami telah berpengalaman Lebih dari 20 tahun</p>
                     </div>
                 </div><!-- /.widget_text -->
 
@@ -17,7 +17,7 @@
                         <li class="address clearfix">
                             <div class="inner">
                                 <i class=" finance-icon-map"></i>
-                                <span class="text">2835 Vidor Ave, San Antonio</span>
+                                <span class="text">Jl.Kamboja 01,Kec Kragan Kab Rembang,Jawa Tengah</span>
                             </div>
                         </li>
                         <li class="email clearfix">
@@ -29,14 +29,14 @@
                         <li class="phone clearfix">
                             <div class="inner">
                             <i class=" finance-icon-Phone"></i>
-                            <span class="text">+1 (100) 380-790  /  6:30 AM - 6:30 PM</span>
+                            <span class="text">Phone +62 852-2560-2598</span>
                             </div>
                         </li>
                     </ul>
                 </div><!-- /.widget_information -->
             </div><!-- /.span_1_of_4 -->
 
-            <div class="span_1_of_4 col">
+            {{-- <div class="span_1_of_4 col">
                 <div class="widget widget_twitter margin-top-6 padding-left-13">
                     <h2 class="widget-title"><span>Recent tweets</span></h2>
                     <ul class="tweets clearfix">
@@ -63,7 +63,7 @@
                         </li>
                     </ul>
                 </div><!-- /.widget_recent_news -->
-            </div><!-- /.span_1_of_4 -->
+            </div><!-- /.span_1_of_4 --> --}}
 
             <div class="span_1_of_4 col">
                 <div class="widget widget_tag_cloud margin-top-6 padding-left-9">
@@ -90,7 +90,7 @@
                         <div class="flickr_badge_image">
                             <a href="#" target="_blank">
                             <div class="item">
-                                <img src="assets/img/instagram/1.jpg" alt="Image">
+                                <img src="templates/ficonsu/assets/img/instagram/1.jpg" alt="Image">
                             </div>
                             </a>
                         </div>
@@ -98,7 +98,7 @@
                         <div class="flickr_badge_image">
                             <a href="#" target="_blank">
                             <div class="item">
-                                <img src="assets/img/instagram/2.jpg" alt="Image">
+                                <img src="templates/ficonsu/assets/img/instagram/2.jpg" alt="Image">
                             </div>
                             </a>
                         </div>
@@ -106,7 +106,7 @@
                         <div class="flickr_badge_image">
                             <a href="#" target="_blank">
                             <div class="item">
-                                <img src="assets/img/instagram/3.jpg" alt="Image">
+                                <img src="templates/ficonsu/assets/img/instagram/3.jpg" alt="Image">
                             </div>
                             </a>
                         </div>
@@ -114,7 +114,7 @@
                         <div class="flickr_badge_image">
                             <a href="#" target="_blank">
                             <div class="item">
-                                <img src="assets/img/instagram/4.jpg" alt="Image">
+                                <img src="templates/ficonsu/assets/img/instagram/4.jpg" alt="Image">
                             </div>
                             </a>
                         </div>
@@ -122,7 +122,7 @@
                         <div class="flickr_badge_image">
                             <a href="#" target="_blank">
                             <div class="item">
-                                <img src="assets/img/instagram/5.jpg" alt="Image">
+                                <img src="templates/ficonsu/assets/img/instagram/5.jpg" alt="Image">
                             </div>
                             </a>
                         </div>
@@ -130,7 +130,7 @@
                         <div class="flickr_badge_image">
                             <a href="#" target="_blank">
                             <div class="item">
-                                <img src="assets/img/instagram/6.jpg" alt="Image">
+                                <img src="templates/ficonsu/assets/img/instagram/6.jpg" alt="Image">
                             </div>
                             </a>
                         </div>

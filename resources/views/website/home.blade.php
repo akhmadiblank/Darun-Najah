@@ -446,9 +446,9 @@
                                         <div class="themesflat-spacer clearfix" data-desktop="92" data-mobi="60" data-smobi="60"></div>
 
                                         <div class="themesflat-headings style-1 clearfix text-center padding-left-32">
-                                        	<h2 class="heading clearfix">LAYANAN TERBAIK YANG DIBERIKAN</h2>
+                                        	<h2 class="heading clearfix">PROGRAM TERBAIK YANG DIBERIKAN</h2>
                                         	<div class="sep clearfix"></div>
-                                        	<p class="sub-heading clearfix">Layanan serta Infrastruktur Unggulan untuk Pengalaman Belajar Terbaik</p>
+                                        	<p class="sub-heading clearfix">Program Unggulan untuk Pengalaman Belajar Terbaik</p>
                                         </div><!-- /.themesflat-headings -->
 
 										<div class="themesflat-spacer clearfix" data-desktop="50" data-mobi="40" data-smobi="40"></div>
@@ -461,7 +461,7 @@
                                                     <div class="thumb"><img src="templates/ficonsu/assets/img/imagebox/imagebox1.jpg" alt="Image"></div>
 
                                                     <div class="text-wrap">
-                                                        <h3 class="title"><a target="_blank" href="">LABORATORIUM SAINS MODERN</a></h3>
+                                                        <h3 class="title"><a target="_blank" href="">TAHFIDZ AL-QUR'AN</a></h3>
 
                                                         <div class="desc">Perlengkapan terkini mendukung eksplorasi ilmu pengetahuan dan inovasi.</div>
                                                     </div>
@@ -479,7 +479,7 @@
                                                     <div class="thumb"><img src="templates/ficonsu/assets/img/imagebox/imagebox2.jpg" alt="Image"></div>
 
                                                     <div class="text-wrap">
-                                                        <h3 class="title"><a target="_blank" href="">PERPUSTAKAAN DIGITAL INTERAKTIF</a></h3>
+                                                        <h3 class="title"><a target="_blank" href="">BINA PRIBADI ISLAM</a></h3>
 
                                                         <div class="desc">Koleksi buku dan sumber digital yang luas untuk memperkaya wawasan siswa.</div>
                                                     </div>
@@ -497,7 +497,8 @@
                                                     <div class="thumb"><img src="templates/ficonsu/assets/img/imagebox/imagebox3.jpg" alt="Image"></div>
 
                                                     <div class="text-wrap">
-                                                        <h3 class="title"><a target="_blank" href="">lAPANGAN OLAHRAGA TERBAIK DAN LENGKAP</a></h3>
+                                                        <h3 class="title"><a target="_blank" href="">Kajian Keislaman
+                                                            </a></h3>
 
                                                         <div class="desc">Mendorong keseimbangan antara kegiatan akademik dan ekstrakurikuler, memastikan kesejahteraan fisik siswa.</div>
                                                     </div>
@@ -608,6 +609,82 @@
                             </div><!-- /.container -->
                         </div>
                         <!-- END JUMLAH SDM 1 -->
+
+                          <!-- EXTRAKULIKULER-->
+                          <div class="row-services">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="themesflat-spacer clearfix" data-desktop="92" data-mobi="60" data-smobi="60"></div>
+
+                                        <div class="themesflat-headings style-1 clearfix text-center padding-left-32">
+                                        	<h2 class="heading clearfix">PROGRAM EXTRA KULIKULER UNGGULAN</h2>
+                                        	<div class="sep clearfix"></div>
+                                        	<p class="sub-heading clearfix">Berbagai macam kegiatan pembentuk kararter siswa</p>
+                                        </div><!-- /.themesflat-headings -->
+
+										<div class="themesflat-spacer clearfix" data-desktop="50" data-mobi="40" data-smobi="40"></div>
+                                    </div><!-- /.col-md-12 -->
+
+                                    <div class="col-md-4">
+                                        <div class="themesflat-image-box style-1 clearfix">
+                                            <div class="item">
+                                                <div class="inner">
+                                                    <div class="thumb"><img src="templates/ficonsu/assets/img/imagebox/imagebox1.jpg" alt="Image"></div>
+
+                                                    <div class="text-wrap">
+                                                        <h3 class="title"><a target="_blank" href="">PRAMUKA</a></h3>
+
+                                                        <div class="desc">Menumbuhkan Jiwa Kepemimpinan melalui Pramuka.</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div><!-- /.themesflat-image-box -->
+
+                                        <div class="themesflat-spacer clearfix" data-desktop="0" data-mobi="40" data-smobi="40"></div>
+                                    </div><!-- /.col-md-4 -->
+
+                                    <div class="col-md-4">
+                                        <div class="themesflat-image-box style-1 clearfix">
+                                            <div class="item">
+                                                <div class="inner">
+                                                    <div class="thumb"><img src="templates/ficonsu/assets/img/imagebox/imagebox2.jpg" alt="Image"></div>
+
+                                                    <div class="text-wrap">
+                                                        <h3 class="title"><a target="_blank" href="">DRUM BAND</a></h3>
+
+                                                        <div class="desc">Dentuman Kreatif: Ekstrakurikuler Drum Band di Sekolah Kami</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div><!-- /.themesflat-image-box -->
+
+                                        <div class="themesflat-spacer clearfix" data-desktop="0" data-mobi="40" data-smobi="40"></div>
+                                    </div><!-- /.col-md-4 -->
+
+                                    <div class="col-md-4">
+                                        <div class="themesflat-image-box style-1 clearfix">
+                                            <div class="item">
+                                                <div class="inner">
+                                                    <div class="thumb"><img src="templates/ficonsu/assets/img/imagebox/imagebox3.jpg" alt="Image"></div>
+
+                                                    <div class="text-wrap text-center">
+                                                        <h3 class="title"><a target="_blank" href="">FUTSAL
+                                                            </a></h3>
+                                                        <div class="desc">Mengasah Keterampilan Sepak Bola dalam Lingkungan Futsal</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div><!-- /.themesflat-image-box -->
+                                    </div><!-- /.col-md-4 -->
+
+                                    <div class="col-md-12">
+                                        <div class="themesflat-spacer clearfix" data-desktop="90" data-mobi="60" data-smobi="60"></div>
+                                    </div><!-- /.col-md-12 -->
+                                </div><!-- /.row -->
+                            </div><!-- /.container -->
+                        </div>
+                        <!-- END EXTRAKULIKULER-->
 
                         <!-- VIDEO -->
                         <div class="row-video">
@@ -843,7 +920,7 @@
                                         <div class="themesflat-headings style-1 clearfix text-center">
                                             <h2 class="heading clearfix">TESTIMONIAL ALUMNI</h2>
                                             <div class="sep clearfix"></div>
-                                            <p class="sub-heading clearfix">Appropriate and sufficient financing for a company is crucially important for its long-term success. We advise you in choosing the appropriate type of financing</p>
+                                            <p class="sub-heading clearfix">Pengalaman Alumni,Menyusuri Jejak Sukses Mereka</p>
                                         </div><!-- /.themesflat-headings -->
 
                                         <div class="themesflat-spacer clearfix" data-desktop="52" data-mobi="40" data-smobi="40"></div>
@@ -863,10 +940,13 @@
                                                                 <i class="finance-icon-star"></i>
                                                                 <i class="finance-icon-star"></i>
                                                             </div>
-                                                            <p>Very friendly staff that has worked with me on payment arrangement to insure that I am able to make my payment and satisfied them. I would recommend them to anyone who is looking for an Auto Loan. Thank you so much for your Service.</p>
+                                                            <p>
+                                                            Juara MAPSI Nasional  
+                                                            Bekerja sebagai Data Scientist di Bukalapak
+                                                                </p>
                                                             <div class="name-pos">
-                                                                <h6 class="name">SABRINA BROWN</h6>
-                                                                <span class="position">Delicates Studio</span>
+                                                                <h6 class="name">Muslikhatun Niam</h6>
+                                                                <span class="position">Alumni Angkatan 2007/2008</span>
                                                             </div>
                                                         </blockquote>
                                                     </div>
@@ -888,10 +968,12 @@
                                                                 <i class="finance-icon-star"></i>
                                                                 <i class="finance-icon-star"></i>
                                                             </div>
-                                                            <p>Very friendly staff that has worked with me on payment arrangement to insure that I am able to make my payment and satisfied them. I would recommend them to anyone who is looking for an Auto Loan. Thank you so much for your Service.</p>
+                                                            <p>Duta Fakultas Ekonomi Pembangunan Universitas Trunojoyo Madura
+                                                                Medali Perunggu dan Medali Perak “Lomba Paduan Suara Satya Darma Gita National Choir Festival”
+                                                                </p>
                                                             <div class="name-pos">
-                                                                <h6 class="name">SABRINA BROWN</h6>
-                                                                <span class="position">Delicates Studio</span>
+                                                                <h6 class="name">Lulu’atul Khasanah</h6>
+                                                                <span class="position">Alumni Angkatan 2013/2014</span>
                                                             </div>
                                                         </blockquote>
                                                     </div>
